@@ -1,4 +1,4 @@
-# Angular versioning and releases
+# Angular version and releases
 
 We recognize that you need stability from the Angular framework.
 Stability ensures that reusable components and libraries, tutorials, tools, and learned practices don't become obsolete unexpectedly.
